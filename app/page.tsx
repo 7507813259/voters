@@ -6636,17 +6636,35 @@ export default function UserManagement() {
   const [searchTerm, setSearchTerm] = useState<string>("");
 
   const filteredUsers = useMemo((): UserType[] => {
-    if (!searchTerm) return userData;
+    if (!searchTerm.trim()) return userData;
 
-    const lowercasedSearch = searchTerm.toLowerCase();
-    return userData.filter(
-      (user) =>
-        user?.name?.toLowerCase().includes(lowercasedSearch) ||
-        user?.epicNo?.toLowerCase().includes(lowercasedSearch) ||
-        user?.partNo?.toLowerCase().includes(lowercasedSearch) ||
-        user?.relativeName?.toLowerCase().includes(lowercasedSearch) ||
-        user?.address?.toLowerCase().includes(lowercasedSearch)
-    );
+    const lowercasedSearch = searchTerm.toLowerCase().trim();
+
+    return userData.filter((user) => {
+      // Check each field individually and handle undefined/null cases
+      const nameMatch =
+        user.name?.toLowerCase().includes(lowercasedSearch) || false;
+      const epicMatch =
+        user.epicNo?.toLowerCase().includes(lowercasedSearch) || false;
+      const partMatch =
+        user.partNo?.toLowerCase().includes(lowercasedSearch) || false;
+      const relativeMatch =
+        user.relativeName?.toLowerCase().includes(lowercasedSearch) || false;
+      const addressMatch =
+        user.address?.toLowerCase().includes(lowercasedSearch) || false;
+      const houseNoMatch =
+        user.houseNo?.toLowerCase().includes(lowercasedSearch) || false;
+
+      // Return true if ANY field matches
+      return (
+        nameMatch ||
+        epicMatch ||
+        partMatch ||
+        relativeMatch ||
+        addressMatch ||
+        houseNoMatch
+      );
+    });
   }, [searchTerm]);
 
   return (
