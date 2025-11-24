@@ -6641,29 +6641,20 @@ export default function UserManagement() {
     const lowercasedSearch = searchTerm.toLowerCase().trim();
 
     return userData.filter((user) => {
-      // Check each field individually and handle undefined/null cases
-      const nameMatch =
-        user.name?.toLowerCase().includes(lowercasedSearch) || false;
-      const epicMatch =
-        user.epicNo?.toLowerCase().includes(lowercasedSearch) || false;
-      const partMatch =
-        user.partNo?.toLowerCase().includes(lowercasedSearch) || false;
-      const relativeMatch =
-        user.relativeName?.toLowerCase().includes(lowercasedSearch) || false;
-      const addressMatch =
-        user.address?.toLowerCase().includes(lowercasedSearch) || false;
-      const houseNoMatch =
-        user.houseNo?.toLowerCase().includes(lowercasedSearch) || false;
+      // Convert all searchable fields to lowercase strings and handle null/undefined
+      const searchableFields = [
+        user.name || "",
+        user.epicNo || "",
+        user.partNo || "",
+        user.relativeName || "",
+        user.address || "",
+        user.houseNo || "",
+        user.age || "",
+        user.gender || "",
+      ].map((field) => field.toString().toLowerCase());
 
-      // Return true if ANY field matches
-      return (
-        nameMatch ||
-        epicMatch ||
-        partMatch ||
-        relativeMatch ||
-        addressMatch ||
-        houseNoMatch
-      );
+      // Check if any field contains the search term
+      return searchableFields.some((field) => field.includes(lowercasedSearch));
     });
   }, [searchTerm]);
 
@@ -6705,9 +6696,9 @@ export default function UserManagement() {
 
         {/* Users Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-          {filteredUsers.map((user) => (
+          {filteredUsers.map((user, index) => (
             <div
-              key={user.srNo}
+              key={`${user.srNo}-${user.epicNo}-${index}`}
               className="bg-white rounded-2xl shadow-sm border border-gray-200 p-6 hover:shadow-lg transition-all duration-300"
             >
               <div className="flex items-start justify-between mb-4">
