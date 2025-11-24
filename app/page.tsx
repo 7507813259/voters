@@ -18733,6 +18733,3286 @@ const userData: UserType[] = [
     "houseNo": "338 46",
     "age": "50",
     "gender": "Female"
+  },
+  {
+    "srNo": 1642,
+    "epicNo": "KCC1077825",
+    "partNo": "27/275/762",
+    "name": "Lakhade Sanjay Gulabrao",
+    "relativeName": "Lakhade Gulabrao",
+    "houseNo": "338 46",
+    "age": "46",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1643,
+    "epicNo": "RSO7534704",
+    "partNo": "27/275/764",
+    "name": "Bagade Puja Rajendra",
+    "relativeName": "Bagade Rajendra",
+    "houseNo": "338-46",
+    "age": "28",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1644,
+    "epicNo": "KCC1078393",
+    "partNo": "27/275/765",
+    "name": "Dhanorkar Jija",
+    "relativeName": "Dhanorkar Atmaram",
+    "houseNo": "338 48",
+    "age": "82",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1645,
+    "epicNo": "KCC1077080",
+    "partNo": "27/275/766",
+    "name": "Dhanorkar Kishore",
+    "relativeName": "Dhanorkar Atmaram",
+    "houseNo": "338 48",
+    "age": "54",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1646,
+    "epicNo": "KCC1100403",
+    "partNo": "27/275/767",
+    "name": "Dhanorkar Vinod",
+    "relativeName": "Dhanorkar Atmaram",
+    "houseNo": "338 48",
+    "age": "52",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1647,
+    "epicNo": "KCC1078336",
+    "partNo": "27/275/768",
+    "name": "Dhanorkar Asha",
+    "relativeName": "Dhanorkar Kishore",
+    "houseNo": "338 48",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1648,
+    "epicNo": "RSO9546276",
+    "partNo": "27/275/769",
+    "name": "Dhanorkar Sonal Kishore",
+    "relativeName": "Dhanorkar Kishore",
+    "houseNo": "338-48",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1649,
+    "epicNo": "KCC1077155",
+    "partNo": "27/275/770",
+    "name": "Hivare Shivhari Dashrath",
+    "relativeName": "Hivare Dashrath",
+    "houseNo": "338 49",
+    "age": "57",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1650,
+    "epicNo": "KCC1077163",
+    "partNo": "27/275/771",
+    "name": "Hivare Asha Shivhari",
+    "relativeName": "Hivare Shivhari",
+    "houseNo": "338 49",
+    "age": "52",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1651,
+    "epicNo": "KCC1076603",
+    "partNo": "27/275/772",
+    "name": "Umale Kisan Shripat",
+    "relativeName": "Umale Shripat",
+    "houseNo": "338 52",
+    "age": "62",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1652,
+    "epicNo": "KCC1076611",
+    "partNo": "27/275/773",
+    "name": "Umale Nirmala Kisan",
+    "relativeName": "Umale Kisan",
+    "houseNo": "338 52",
+    "age": "57",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1653,
+    "epicNo": "KCC1076736",
+    "partNo": "27/275/774",
+    "name": "Umale Vinod Kisan",
+    "relativeName": "Umale Kisan",
+    "houseNo": "338 52",
+    "age": "40",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1654,
+    "epicNo": "RSO7418130",
+    "partNo": "27/275/775",
+    "name": "Umale Aarti Vinod",
+    "relativeName": "Umale Vinod",
+    "houseNo": "338-52",
+    "age": "28",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1655,
+    "epicNo": "KCC1076959",
+    "partNo": "27/275/776",
+    "name": "Thakare Gajanan Sampat",
+    "relativeName": "Thakare Sampat",
+    "houseNo": "338-54",
+    "age": "60",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1656,
+    "epicNo": "KCC1076967",
+    "partNo": "27/275/777",
+    "name": "Thakare Asha",
+    "relativeName": "Thakare Gajanan",
+    "houseNo": "338-54",
+    "age": "54",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1657,
+    "epicNo": "RSO9088162",
+    "partNo": "27/275/778",
+    "name": "Thakare Pravin Gajanan",
+    "relativeName": "Thakare Gajanan",
+    "houseNo": "338-54",
+    "age": "35",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1658,
+    "epicNo": "RSO7375751",
+    "partNo": "27/275/779",
+    "name": "Thakare Sandip Gajanan",
+    "relativeName": "Thakare Gajanan",
+    "houseNo": "338-54",
+    "age": "31",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1659,
+    "epicNo": "RSO1636539",
+    "partNo": "27/275/780",
+    "name": "Thakare Megha Pravin",
+    "relativeName": "Thakare Pravin Gajanan",
+    "houseNo": "338-54",
+    "age": "31",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1660,
+    "epicNo": "RSO1561349",
+    "partNo": "27/275/781",
+    "name": "Thakare Varsha Prashant",
+    "relativeName": "Thakare Prashant Gajanan Thakare",
+    "houseNo": "338-54",
+    "age": "25",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1661,
+    "epicNo": "KCC1077569",
+    "partNo": "27/275/782",
+    "name": "Nemade Samadhan Sakharam",
+    "relativeName": "Nemade Sakharam",
+    "houseNo": "338 55",
+    "age": "82",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1662,
+    "epicNo": "KCC1077841",
+    "partNo": "27/275/783",
+    "name": "Nemade Satyabhama Samadhan",
+    "relativeName": "Nemade Samadhan",
+    "houseNo": "338 55",
+    "age": "77",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1663,
+    "epicNo": "KCC1077734",
+    "partNo": "27/275/784",
+    "name": "Nemade Mangala Ganesh",
+    "relativeName": "Nemade Ganesh",
+    "houseNo": "338 55",
+    "age": "42",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1664,
+    "epicNo": "RSO9087529",
+    "partNo": "27/275/785",
+    "name": "Nemade Anusayabai Raghunath",
+    "relativeName": "Nemade Raghunath",
+    "houseNo": "338/55",
+    "age": "80",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1665,
+    "epicNo": "KCC1079508",
+    "partNo": "27/275/786",
+    "name": "Indokar Asha",
+    "relativeName": "Indokar Shriram",
+    "houseNo": "338 56",
+    "age": "57",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1666,
+    "epicNo": "KCC1077064",
+    "partNo": "27/275/787",
+    "name": "Indokar Kisan",
+    "relativeName": "Indokar Janardan",
+    "houseNo": "338 56",
+    "age": "52",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1667,
+    "epicNo": "RSO9087537",
+    "partNo": "27/275/788",
+    "name": "Indokar Asha Shrikrishna",
+    "relativeName": "Indokar Shrikrishna",
+    "houseNo": "338 56",
+    "age": "48",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1668,
+    "epicNo": "RSO7375504",
+    "partNo": "27/275/789",
+    "name": "Indokar Kunal Shriram",
+    "relativeName": "Indokar Shriram",
+    "houseNo": "338-56",
+    "age": "32",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1669,
+    "epicNo": "RSO1478338",
+    "partNo": "27/275/790",
+    "name": "Indokar Vaishnavi",
+    "relativeName": "Indokar Kisan",
+    "houseNo": "338-56",
+    "age": "23",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1670,
+    "epicNo": "RSO1478346",
+    "partNo": "27/275/791",
+    "name": "Indokar Chetan",
+    "relativeName": "Indokar Kisan",
+    "houseNo": "338-56",
+    "age": "22",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1671,
+    "epicNo": "KCC1099761",
+    "partNo": "27/275/792",
+    "name": "Shankhe Santosh Sitaram",
+    "relativeName": "Shankhe Sitaram",
+    "houseNo": "338 57",
+    "age": "49",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1672,
+    "epicNo": "KCC1109479",
+    "partNo": "27/275/793",
+    "name": "Shankhe Chhaya Sitaram",
+    "relativeName": "Shankhe Sitaram",
+    "houseNo": "338-57",
+    "age": "63",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1673,
+    "epicNo": "RSO7375496",
+    "partNo": "27/275/794",
+    "name": "Shankhe Sujata Santosh",
+    "relativeName": "Shankhe Santosh",
+    "houseNo": "338-57",
+    "age": "40",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1674,
+    "epicNo": "KCC1109461",
+    "partNo": "27/275/795",
+    "name": "Shankhe Gokarna Laxman",
+    "relativeName": "Shankhe Laxman",
+    "houseNo": "338 59",
+    "age": "54",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1675,
+    "epicNo": "KCC1109487",
+    "partNo": "27/275/796",
+    "name": "Shankhe Nanda Laxman",
+    "relativeName": "Shankhe Laxman",
+    "houseNo": "338 59",
+    "age": "54",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1676,
+    "epicNo": "RSO9087545",
+    "partNo": "27/275/797",
+    "name": "Shankhe Sanjay Laxman",
+    "relativeName": "Shankhe Laxman",
+    "houseNo": "338 59",
+    "age": "50",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1677,
+    "epicNo": "KCC1109453",
+    "partNo": "27/275/798",
+    "name": "Shankhe Vanita Sanjay",
+    "relativeName": "Shankhe Sanjay",
+    "houseNo": "338 59",
+    "age": "45",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1678,
+    "epicNo": "RSO9612128",
+    "partNo": "27/275/799",
+    "name": "Shankhe Gangu",
+    "relativeName": "Shankhe Sitaram",
+    "houseNo": "338-59",
+    "age": "71",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1679,
+    "epicNo": "RSO9612144",
+    "partNo": "27/275/800",
+    "name": "Shankhe Bindu",
+    "relativeName": "Shankhe Sitaram",
+    "houseNo": "338-59",
+    "age": "64",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1680,
+    "epicNo": "KCC1102045",
+    "partNo": "27/275/801",
+    "name": "Sushir Sanjay Jagannath",
+    "relativeName": "Sushir Jagannath",
+    "houseNo": "338 60",
+    "age": "56",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1681,
+    "epicNo": "KCC1102037",
+    "partNo": "27/275/802",
+    "name": "Sushir Shalini Sanjay",
+    "relativeName": "Sushir Sanjay",
+    "houseNo": "338 60",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1682,
+    "epicNo": "RSO7375488",
+    "partNo": "27/275/803",
+    "name": "Sushir Sanjana Sanjay",
+    "relativeName": "Sushir Sanjay",
+    "houseNo": "338-60",
+    "age": "28",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1683,
+    "epicNo": "KCC1077197",
+    "partNo": "27/275/804",
+    "name": "Chitode Santosh Arjuns",
+    "relativeName": "Chitode Arjuns",
+    "houseNo": "338 62",
+    "age": "50",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1684,
+    "epicNo": "KCC1077312",
+    "partNo": "27/275/805",
+    "name": "Chitode Mina Santosh",
+    "relativeName": "Chitode Santosh",
+    "houseNo": "338 62",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1685,
+    "epicNo": "KCC1099910",
+    "partNo": "27/275/806",
+    "name": "Bhagat Pramod Shahadev",
+    "relativeName": "Bhagat Shahadev",
+    "houseNo": "338 63",
+    "age": "58",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1686,
+    "epicNo": "RSO9087552",
+    "partNo": "27/275/807",
+    "name": "Bhagat Savita Pramod",
+    "relativeName": "Bhagat Pramod",
+    "houseNo": "338 63",
+    "age": "52",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1687,
+    "epicNo": "RSO9612045",
+    "partNo": "27/275/808",
+    "name": "Bhagat Asmita",
+    "relativeName": "Bhagat Pramod",
+    "houseNo": "338-63",
+    "age": "24",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1688,
+    "epicNo": "KCC1078559",
+    "partNo": "27/275/809",
+    "name": "Umale Gajanan",
+    "relativeName": "Umale Laxman",
+    "houseNo": "338 64",
+    "age": "65",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1689,
+    "epicNo": "KCC1079581",
+    "partNo": "27/275/810",
+    "name": "Umale Radha",
+    "relativeName": "Umale Gajanan",
+    "houseNo": "338 64",
+    "age": "60",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1690,
+    "epicNo": "RSO9546219",
+    "partNo": "27/275/811",
+    "name": "Umale Umesh Gajanan",
+    "relativeName": "Umale Gajanan",
+    "houseNo": "338-64",
+    "age": "37",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1691,
+    "epicNo": "RSO9546227",
+    "partNo": "27/275/812",
+    "name": "Umale Yogita Umesh",
+    "relativeName": "Umale Umesh",
+    "houseNo": "338-64",
+    "age": "31",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1692,
+    "epicNo": "KCC1102144",
+    "partNo": "27/275/813",
+    "name": "Mahore Arvind Narhari",
+    "relativeName": "Mahore Narhari",
+    "houseNo": "338 65",
+    "age": "58",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1693,
+    "epicNo": "KCC1102136",
+    "partNo": "27/275/814",
+    "name": "Mahore Rekha Arvind",
+    "relativeName": "Mahore Arvind",
+    "houseNo": "338 65",
+    "age": "48",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1694,
+    "epicNo": "KCC1101930",
+    "partNo": "27/275/815",
+    "name": "Pohekar Baban Shriram",
+    "relativeName": "Pohekar Shriram",
+    "houseNo": "338 65",
+    "age": "72",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1695,
+    "epicNo": "KCC1077114",
+    "partNo": "27/275/816",
+    "name": "Pohekar Santosh Baban",
+    "relativeName": "Pohekar Baban",
+    "houseNo": "338 65",
+    "age": "43",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1696,
+    "epicNo": "KCC1101427",
+    "partNo": "27/275/817",
+    "name": "Deshmukh Nanda Bhaskarrao",
+    "relativeName": "Deshmukh Bhaskarrao",
+    "houseNo": "338 66",
+    "age": "64",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1697,
+    "epicNo": "KCC1078088",
+    "partNo": "27/275/818",
+    "name": "Deshmukh Vinod Bhaskarrao",
+    "relativeName": "Deshmukh Bhaskarrao",
+    "houseNo": "338 66",
+    "age": "44",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1698,
+    "epicNo": "KCC1078567",
+    "partNo": "27/275/819",
+    "name": "Deshmukh Gopal Bhaskarrao",
+    "relativeName": "Deshmukh Bhaskarrao",
+    "houseNo": "338 66",
+    "age": "41",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1699,
+    "epicNo": "RSO1561257",
+    "partNo": "27/275/820",
+    "name": "Thakare Vrushali Mohan",
+    "relativeName": "Thakare Mohan Bhaskar Thakare",
+    "houseNo": "338-66",
+    "age": "29",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1700,
+    "epicNo": "KCC1079318",
+    "partNo": "27/275/821",
+    "name": "Kale Dinesh Nilkanth",
+    "relativeName": "Kale Nilkanth",
+    "houseNo": "338 68",
+    "age": "51",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1701,
+    "epicNo": "KCC1079631",
+    "partNo": "27/275/822",
+    "name": "Kale Archana Vinayak",
+    "relativeName": "Kale Vinayak",
+    "houseNo": "Jagdamba Nagar",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1702,
+    "epicNo": "KCC1079326",
+    "partNo": "27/275/823",
+    "name": "Kale Jayshri Dinesh",
+    "relativeName": "Kale Dinesh",
+    "houseNo": "338 68",
+    "age": "45",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1703,
+    "epicNo": "RSO7618697",
+    "partNo": "27/275/824",
+    "name": "Kale Vaishnavi Vinayak",
+    "relativeName": "Kale Vinayak",
+    "houseNo": "338/68",
+    "age": "24",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1704,
+    "epicNo": "KCC1076694",
+    "partNo": "27/275/825",
+    "name": "Kale Vinayak",
+    "relativeName": "Kale Nilkanth",
+    "houseNo": "338-68",
+    "age": "56",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1705,
+    "epicNo": "RSO1636547",
+    "partNo": "27/275/826",
+    "name": "Kale Gauri Vinayak",
+    "relativeName": "Kale Vinayak Nilkanth",
+    "houseNo": "338-68",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1706,
+    "epicNo": "KCC1100205",
+    "partNo": "27/275/827",
+    "name": "Vagare Nanda Atmaram",
+    "relativeName": "Vagare Atmaram",
+    "houseNo": "338 69",
+    "age": "57",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1707,
+    "epicNo": "KCC1076983",
+    "partNo": "27/275/828",
+    "name": "Malge Santosh Namdev",
+    "relativeName": "Malge Namdev",
+    "houseNo": "338 71",
+    "age": "47",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1708,
+    "epicNo": "KCC1076991",
+    "partNo": "27/275/829",
+    "name": "Malge Rajesh Namdev",
+    "relativeName": "Malge Namdev",
+    "houseNo": "S/O Namdevrao Malge",
+    "age": "44",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1709,
+    "epicNo": "RSO9527219",
+    "partNo": "27/275/830",
+    "name": "Malge Rekha Santosh",
+    "relativeName": "Malge Santosh",
+    "houseNo": "338-71",
+    "age": "38",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1710,
+    "epicNo": "RSO9087560",
+    "partNo": "27/275/831",
+    "name": "Mankar Narayan Bansi",
+    "relativeName": "Mankar Bansi",
+    "houseNo": "338 74",
+    "age": "67",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1711,
+    "epicNo": "RSO9087578",
+    "partNo": "27/275/832",
+    "name": "Mankar Shila Narayan",
+    "relativeName": "Mankar Narayan",
+    "houseNo": "338 74",
+    "age": "58",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1712,
+    "epicNo": "KCC1076835",
+    "partNo": "27/275/833",
+    "name": "Mankar Raju Bansi",
+    "relativeName": "Mankar Bansi",
+    "houseNo": "338 74",
+    "age": "54",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1713,
+    "epicNo": "KCC1076843",
+    "partNo": "27/275/834",
+    "name": "Mankar Mangala Raju",
+    "relativeName": "Mankar Raju",
+    "houseNo": "338 74",
+    "age": "49",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1714,
+    "epicNo": "RSO9088014",
+    "partNo": "27/275/835",
+    "name": "Mankar Santosh Narayan",
+    "relativeName": "Mankar Narayan",
+    "houseNo": "338-74",
+    "age": "40",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1715,
+    "epicNo": "RSO9088006",
+    "partNo": "27/275/836",
+    "name": "Mankar Ranjit Narayan",
+    "relativeName": "Mankar Narayan",
+    "houseNo": "338-74",
+    "age": "37",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1716,
+    "epicNo": "RSO7534878",
+    "partNo": "27/275/837",
+    "name": "Mankar Durga Ranjit",
+    "relativeName": "Mankar Ranjit Narayan",
+    "houseNo": "338-74",
+    "age": "29",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1717,
+    "epicNo": "RSO7534860",
+    "partNo": "27/275/838",
+    "name": "Mankar Shiva Raju",
+    "relativeName": "Mankar Raju",
+    "houseNo": "338-74",
+    "age": "28",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1718,
+    "epicNo": "RSO7534852",
+    "partNo": "27/275/839",
+    "name": "Mankar Ajay Raju",
+    "relativeName": "Mankar Raju",
+    "houseNo": "338-74",
+    "age": "26",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1719,
+    "epicNo": "RSO9546201",
+    "partNo": "27/275/840",
+    "name": "Mankar Bharti Shiva",
+    "relativeName": "Mankar Shiva",
+    "houseNo": "338-74",
+    "age": "25",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1720,
+    "epicNo": "KCC1077858",
+    "partNo": "27/275/841",
+    "name": "Mehenge Ramesh",
+    "relativeName": "Mehenge Kisan",
+    "houseNo": "338 75",
+    "age": "51",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1721,
+    "epicNo": "KCC1077866",
+    "partNo": "27/275/842",
+    "name": "Mehenge Rekha",
+    "relativeName": "Mehenge Ramesh",
+    "houseNo": "338 75",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1722,
+    "epicNo": "RSO9546235",
+    "partNo": "27/275/843",
+    "name": "Mehenge Vinayak",
+    "relativeName": "Mehenge Ramesh",
+    "houseNo": "338-75",
+    "age": "25",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1723,
+    "epicNo": "RSO1572999",
+    "partNo": "27/275/844",
+    "name": "Mehenge Vaishnavi Ramesh",
+    "relativeName": "Mehenge Ramesh Kisan",
+    "houseNo": "338-75",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1724,
+    "epicNo": "KCC1079045",
+    "partNo": "27/275/845",
+    "name": "Bhore Haribhau Sahebrao",
+    "relativeName": "Bhore Sahebrao",
+    "houseNo": "338 76",
+    "age": "57",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1725,
+    "epicNo": "KCC1079052",
+    "partNo": "27/275/846",
+    "name": "Bhore Manjula Haribhau",
+    "relativeName": "Bhore Haribhau",
+    "houseNo": "338 76",
+    "age": "52",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1726,
+    "epicNo": "KCC1079482",
+    "partNo": "27/275/847",
+    "name": "Bhore Madhuri Narayan",
+    "relativeName": "Bhore Narayan",
+    "houseNo": "338 76",
+    "age": "42",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1727,
+    "epicNo": "KCC1100569",
+    "partNo": "27/275/848",
+    "name": "Gate Anil Laxman",
+    "relativeName": "Gate Laxman",
+    "houseNo": "338 77",
+    "age": "46",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1728,
+    "epicNo": "KCC1108877",
+    "partNo": "27/275/849",
+    "name": "Gate Subhadra Laxman",
+    "relativeName": "Gate Laxman",
+    "houseNo": "338-77",
+    "age": "84",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1729,
+    "epicNo": "RSO9527086",
+    "partNo": "27/275/850",
+    "name": "Gate Archana Anil",
+    "relativeName": "Gate Anil",
+    "houseNo": "338-77",
+    "age": "36",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1730,
+    "epicNo": "KCC1077759",
+    "partNo": "27/275/851",
+    "name": "Bhagevar Durga Ramhari",
+    "relativeName": "Bhagevar Ramhari",
+    "houseNo": "338 78",
+    "age": "50",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1731,
+    "epicNo": "RSO1478353",
+    "partNo": "27/275/852",
+    "name": "Bhagevar Radha",
+    "relativeName": "Bhagevar Babulal",
+    "houseNo": "338-78",
+    "age": "29",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1732,
+    "epicNo": "KCC1077338",
+    "partNo": "27/275/853",
+    "name": "Pole Bhaskar Bhujangrao",
+    "relativeName": "Pole Bhujangrao",
+    "houseNo": "338 81",
+    "age": "56",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1733,
+    "epicNo": "KCC1077924",
+    "partNo": "27/275/854",
+    "name": "Pole Sangita Bhaskar",
+    "relativeName": "Pole Bhaskar",
+    "houseNo": "338 84",
+    "age": "44",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1734,
+    "epicNo": "KCC1077908",
+    "partNo": "27/275/855",
+    "name": "Raut Dilip Uttamrao",
+    "relativeName": "Raut Uttamrao",
+    "houseNo": "338 82",
+    "age": "52",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1735,
+    "epicNo": "KCC1077916",
+    "partNo": "27/275/856",
+    "name": "Raut Usha Dilip",
+    "relativeName": "Raut Dilip",
+    "houseNo": "338 82",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1736,
+    "epicNo": "KCC1079177",
+    "partNo": "27/275/857",
+    "name": "Tayade Santosh Sahebrao",
+    "relativeName": "Tayade Sahebrao",
+    "houseNo": "338 83",
+    "age": "52",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1737,
+    "epicNo": "KCC1078641",
+    "partNo": "27/275/858",
+    "name": "Tayade Ravindra Sahebrao",
+    "relativeName": "Tayade Sahebrao",
+    "houseNo": "338 83",
+    "age": "49",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1738,
+    "epicNo": "KCC1079169",
+    "partNo": "27/275/859",
+    "name": "Tayade Manda Santosh",
+    "relativeName": "Tayade Santosh",
+    "houseNo": "338 83",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1739,
+    "epicNo": "KCC1078385",
+    "partNo": "27/275/860",
+    "name": "Tayade Pramod Sahebrao",
+    "relativeName": "Tayade Sahebrao",
+    "houseNo": "338 83",
+    "age": "46",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1740,
+    "epicNo": "RSO7170541",
+    "partNo": "27/275/861",
+    "name": "Tayade Gita Ravindra",
+    "relativeName": "Tayade Ravindra",
+    "houseNo": "338/83",
+    "age": "39",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1741,
+    "epicNo": "RSO7170558",
+    "partNo": "27/275/862",
+    "name": "Tayade Jyostna Pramod",
+    "relativeName": "Tayade Pramod",
+    "houseNo": "338/83",
+    "age": "36",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1742,
+    "epicNo": "KCC1077882",
+    "partNo": "27/275/863",
+    "name": "Kondekar Vimal Pralhad",
+    "relativeName": "Kondekar Pralhad",
+    "houseNo": "338 84",
+    "age": "57",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1743,
+    "epicNo": "KCC1101245",
+    "partNo": "27/275/864",
+    "name": "Pangole Narayan Haribhau",
+    "relativeName": "Pangole Haribhau",
+    "houseNo": "338 85",
+    "age": "62",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1744,
+    "epicNo": "KCC1101237",
+    "partNo": "27/275/865",
+    "name": "Pangole Pushpa Narayan",
+    "relativeName": "Pangole Narayan",
+    "houseNo": "338 85",
+    "age": "58",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1745,
+    "epicNo": "KCC1101278",
+    "partNo": "27/275/866",
+    "name": "Mahale Sukhdev Vithoba",
+    "relativeName": "Mahale Vithoba",
+    "houseNo": "338 87",
+    "age": "58",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1746,
+    "epicNo": "KCC1101260",
+    "partNo": "27/275/867",
+    "name": "Mahale Laxmi Sukhdev",
+    "relativeName": "Mahale Sukhdev",
+    "houseNo": "338 87",
+    "age": "52",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1747,
+    "epicNo": "KCC1099191",
+    "partNo": "27/275/868",
+    "name": "Gavai Datta Motiram",
+    "relativeName": "Gavai Motiram",
+    "houseNo": "338 88",
+    "age": "52",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1748,
+    "epicNo": "KCC1099209",
+    "partNo": "27/275/869",
+    "name": "Gavai Gita Datta",
+    "relativeName": "Gavai Datta",
+    "houseNo": "338 88",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1749,
+    "epicNo": "KCC1100379",
+    "partNo": "27/275/873",
+    "name": "Patil Rajendra Ramesh",
+    "relativeName": "Patil Ramesh",
+    "houseNo": "43",
+    "age": "49",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1750,
+    "epicNo": "KCC1100361",
+    "partNo": "27/275/874",
+    "name": "Patil Shila Rajendra",
+    "relativeName": "Patil Rajendra",
+    "houseNo": "43",
+    "age": "45",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1751,
+    "epicNo": "RSO9546169",
+    "partNo": "27/275/875",
+    "name": "Patil Sudesh Rajendra",
+    "relativeName": "Patil Rajendra",
+    "houseNo": "338-90",
+    "age": "22",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1752,
+    "epicNo": "RSO7568074",
+    "partNo": "27/275/876",
+    "name": "Vinchu Roshan Dhanyavad",
+    "relativeName": "Vinchu Dhanyavad",
+    "houseNo": "338/91",
+    "age": "26",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1753,
+    "epicNo": "KCC1076926",
+    "partNo": "27/275/877",
+    "name": "Bhavar Ramchandra Jagannath",
+    "relativeName": "Bhavar Jagannath",
+    "houseNo": "338 92",
+    "age": "77",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1754,
+    "epicNo": "KCC1076876",
+    "partNo": "27/275/878",
+    "name": "Bhavar Suresh Ramchandra",
+    "relativeName": "Bhavar Ramchandra",
+    "houseNo": "338 92",
+    "age": "42",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1755,
+    "epicNo": "RSO9527276",
+    "partNo": "27/275/879",
+    "name": "Bhavar Manisha Suresh",
+    "relativeName": "Bhavar Suresh",
+    "houseNo": "338-92",
+    "age": "42",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1756,
+    "epicNo": "KCC1079821",
+    "partNo": "27/275/880",
+    "name": "Dhuikar Savita Nanarao",
+    "relativeName": "Dhuikar Nanarao",
+    "houseNo": "338 94",
+    "age": "49",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1757,
+    "epicNo": "KCC1100288",
+    "partNo": "27/275/881",
+    "name": "Dhuikar Nanarao",
+    "relativeName": "Dhuikar Anandrao",
+    "houseNo": "338 94",
+    "age": "54",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1758,
+    "epicNo": "RSO7170566",
+    "partNo": "27/275/882",
+    "name": "Unhale Shantanu Kailas",
+    "relativeName": "Unhale Kailas",
+    "houseNo": "338-96",
+    "age": "30",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1759,
+    "epicNo": "RSO7534670",
+    "partNo": "27/275/883",
+    "name": "Unhale Puja Kailasrao",
+    "relativeName": "Unhale Kailasrao",
+    "houseNo": "338-96",
+    "age": "25",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1760,
+    "epicNo": "KCC1099779",
+    "partNo": "27/275/884",
+    "name": "Tayade Vijay Mahadev",
+    "relativeName": "Tayade Mahadev",
+    "houseNo": "338 99",
+    "age": "50",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1761,
+    "epicNo": "RSO9526799",
+    "partNo": "27/275/885",
+    "name": "Tayade Kalpana Vijay",
+    "relativeName": "Tayade Vijay",
+    "houseNo": "338-99",
+    "age": "44",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1762,
+    "epicNo": "RSO9526773",
+    "partNo": "27/275/886",
+    "name": "Tayade Kanchan Vijay",
+    "relativeName": "Tayade Vijay",
+    "houseNo": "338-99",
+    "age": "23",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1763,
+    "epicNo": "RSO1410414",
+    "partNo": "27/275/887",
+    "name": "Gurav Kailas Rambhau",
+    "relativeName": "Gurav Rambhau",
+    "houseNo": "339 39",
+    "age": "55",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1764,
+    "epicNo": "RSO7171432",
+    "partNo": "27/275/888",
+    "name": "Nemane Pradip Baliram",
+    "relativeName": "Nemane Baliram",
+    "houseNo": "339-41",
+    "age": "30",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1765,
+    "epicNo": "KCC1078948",
+    "partNo": "27/275/889",
+    "name": "Bhavar Ratnakala Ramchandra",
+    "relativeName": "Bhavar Ramchandra",
+    "houseNo": "339 92",
+    "age": "67",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1766,
+    "epicNo": "RSO7506611",
+    "partNo": "27/275/890",
+    "name": "Gavai Sunil Datta",
+    "relativeName": "Gavai Datta",
+    "houseNo": "388-88",
+    "age": "27",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1767,
+    "epicNo": "KCC1100114",
+    "partNo": "27/275/891",
+    "name": "Ingale Bhikabai Kisan",
+    "relativeName": "Ingale Kisan",
+    "houseNo": "338 100",
+    "age": "72",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1768,
+    "epicNo": "KCC1101880",
+    "partNo": "27/275/892",
+    "name": "Ingale Mahadev Kisan",
+    "relativeName": "Ingale Kisan",
+    "houseNo": "338 100",
+    "age": "52",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1769,
+    "epicNo": "KCC1079516",
+    "partNo": "27/275/893",
+    "name": "Morkhade Gaukarna",
+    "relativeName": "Morkhade Pandurang",
+    "houseNo": "338 101",
+    "age": "82",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1770,
+    "epicNo": "KCC1101187",
+    "partNo": "27/275/894",
+    "name": "Morkhade Damodar",
+    "relativeName": "Morkhade Pandurang",
+    "houseNo": "338 101",
+    "age": "57",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1771,
+    "epicNo": "KCC1101195",
+    "partNo": "27/275/895",
+    "name": "Morkhade Ranjana",
+    "relativeName": "Morkhade Damodar",
+    "houseNo": "338 101",
+    "age": "49",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1772,
+    "epicNo": "RSO7170574",
+    "partNo": "27/275/896",
+    "name": "Morkhade Rahul Damodar",
+    "relativeName": "Morkhade Damodar",
+    "houseNo": "338-101",
+    "age": "29",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1773,
+    "epicNo": "RSO9087586",
+    "partNo": "27/275/897",
+    "name": "Tangde Ramesh",
+    "relativeName": "Tangde Maroti",
+    "houseNo": "338 102",
+    "age": "62",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1774,
+    "epicNo": "RSO9087594",
+    "partNo": "27/275/898",
+    "name": "Tangde Usha",
+    "relativeName": "Tangde Ramesh",
+    "houseNo": "338 102",
+    "age": "57",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1775,
+    "epicNo": "RSO7534779",
+    "partNo": "27/275/899",
+    "name": "Tangde Manisha Ramesh",
+    "relativeName": "Tangde Ramesh",
+    "houseNo": "338 102",
+    "age": "31",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1776,
+    "epicNo": "KCC1099738",
+    "partNo": "27/275/900",
+    "name": "Kathole Arun Yashwant",
+    "relativeName": "Kathole Yashwant",
+    "houseNo": "338 103",
+    "age": "52",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1777,
+    "epicNo": "KCC1099746",
+    "partNo": "27/275/901",
+    "name": "Kathole Anuradha Arun",
+    "relativeName": "Kathole Arun",
+    "houseNo": "338 103",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1778,
+    "epicNo": "RSO9087636",
+    "partNo": "27/275/902",
+    "name": "Deshmukh Yogita Santoshrao",
+    "relativeName": "Deshmukh Santoshrao",
+    "houseNo": "338/ 103",
+    "age": "38",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1779,
+    "epicNo": "RSO9087610",
+    "partNo": "27/275/903",
+    "name": "Kathole Dhiraj",
+    "relativeName": "Kathole Arun",
+    "houseNo": "338/ 103",
+    "age": "34",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1780,
+    "epicNo": "RSO9087644",
+    "partNo": "27/275/906",
+    "name": "Deshmukh Santosh Narayanrao",
+    "relativeName": "Deshmukh Narayanrao",
+    "houseNo": "338/104",
+    "age": "42",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1781,
+    "epicNo": "KCC1108778",
+    "partNo": "27/275/907",
+    "name": "Bhalerao Keshavrao Kisanrao",
+    "relativeName": "Bhalerao Kisanrao",
+    "houseNo": "338 105",
+    "age": "62",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1782,
+    "epicNo": "KCC1078161",
+    "partNo": "27/275/908",
+    "name": "Bhalerao Suman Keshavrao",
+    "relativeName": "Bhalerao Keshavrao",
+    "houseNo": "338 105",
+    "age": "58",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1783,
+    "epicNo": "KCC1079334",
+    "partNo": "27/275/909",
+    "name": "Bhalerao Aatish Keshavrao",
+    "relativeName": "Bhalerao Keshavrao",
+    "houseNo": "338 105",
+    "age": "43",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1784,
+    "epicNo": "RSO1410406",
+    "partNo": "27/275/910",
+    "name": "Bhalerao Pratibha",
+    "relativeName": "Bhalerao Padmakar",
+    "houseNo": "338 105",
+    "age": "64",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1785,
+    "epicNo": "RSO7375470",
+    "partNo": "27/275/911",
+    "name": "Bhalerao Mangala",
+    "relativeName": "Bhalerao Aatish",
+    "houseNo": "338-105",
+    "age": "38",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1786,
+    "epicNo": "KCC1101328",
+    "partNo": "27/275/912",
+    "name": "Tayade Dnyandev Vitthal",
+    "relativeName": "Tayade Vitthal",
+    "houseNo": "338 106",
+    "age": "66",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1787,
+    "epicNo": "KCC1101336",
+    "partNo": "27/275/913",
+    "name": "Tayade Usha Dnyaneshwar",
+    "relativeName": "Tayade Dnyaneshwar",
+    "houseNo": "338 106",
+    "age": "54",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1788,
+    "epicNo": "RSO7534696",
+    "partNo": "27/275/914",
+    "name": "Tayade Vishnu Dnyaneshwar",
+    "relativeName": "Tayade Dnyaneshwar",
+    "houseNo": "338-106",
+    "age": "28",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1789,
+    "epicNo": "KCC1079623",
+    "partNo": "27/275/915",
+    "name": "Ambilkar Sunil Devarao",
+    "relativeName": "Ambilkar Devarao",
+    "houseNo": "338 108",
+    "age": "54",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1790,
+    "epicNo": "KCC1099845",
+    "partNo": "27/275/916",
+    "name": "Ambilkar Anil Devarao",
+    "relativeName": "Ambilkar Devarao",
+    "houseNo": "338 108",
+    "age": "51",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1791,
+    "epicNo": "KCC1079003",
+    "partNo": "27/275/917",
+    "name": "Ambilkar Padma Sunil",
+    "relativeName": "Ambilkar Sunil",
+    "houseNo": "338 108",
+    "age": "47",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1792,
+    "epicNo": "KCC1099829",
+    "partNo": "27/275/918",
+    "name": "Ambilkar Nita Anil",
+    "relativeName": "Ambilkar Anil",
+    "houseNo": "338-108",
+    "age": "42",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1793,
+    "epicNo": "RSO9087669",
+    "partNo": "27/275/919",
+    "name": "Shejole Laxman Vamanrao",
+    "relativeName": "Shejole Vamanrao",
+    "houseNo": "338 108",
+    "age": "57",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1794,
+    "epicNo": "KCC1078203",
+    "partNo": "27/275/920",
+    "name": "Shejole Rekha Laxman",
+    "relativeName": "Shejole Laxman",
+    "houseNo": "338 108",
+    "age": "52",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1795,
+    "epicNo": "RSO9527714",
+    "partNo": "27/275/921",
+    "name": "Ambilkar Rahul Sunil",
+    "relativeName": "Ambilkar Sunil",
+    "houseNo": "338-108",
+    "age": "24",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1796,
+    "epicNo": "KCC1077510",
+    "partNo": "27/275/922",
+    "name": "Malokar Murlidhar Ukharda",
+    "relativeName": "Malokar Ukharda",
+    "houseNo": "338-110",
+    "age": "67",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1797,
+    "epicNo": "KCC1078195",
+    "partNo": "27/275/923",
+    "name": "Malokar Satyabhama Murlidhar",
+    "relativeName": "Malokar Murlidhar",
+    "houseNo": "338-110",
+    "age": "62",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1798,
+    "epicNo": "KCC1077874",
+    "partNo": "27/275/924",
+    "name": "Malokar Pramod Murlidhar",
+    "relativeName": "Malokar Murlidhar",
+    "houseNo": "338-110",
+    "age": "44",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1799,
+    "epicNo": "RSO7375058",
+    "partNo": "27/275/925",
+    "name": "Malokar Kalpana Pramod",
+    "relativeName": "Malokar Pramod",
+    "houseNo": "338-110",
+    "age": "41",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1800,
+    "epicNo": "KCC1103258",
+    "partNo": "27/275/926",
+    "name": "Malokar Nilesh Murlidhar",
+    "relativeName": "Malokar Murlidhar",
+    "houseNo": "338-110",
+    "age": "39",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1801,
+    "epicNo": "RSO7375066",
+    "partNo": "27/275/927",
+    "name": "Malokar Manisha Nilesh",
+    "relativeName": "Malokar Nilesh",
+    "houseNo": "338-110",
+    "age": "34",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1802,
+    "epicNo": "RSO9087677",
+    "partNo": "27/275/928",
+    "name": "Karale Rameshwar Haridas",
+    "relativeName": "Karale Haridas",
+    "houseNo": "338 111",
+    "age": "62",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1803,
+    "epicNo": "RSO9087685",
+    "partNo": "27/275/929",
+    "name": "Karale Rekha Rameshwar",
+    "relativeName": "Karale Rameshwar",
+    "houseNo": "338 111",
+    "age": "52",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1804,
+    "epicNo": "RSO7506652",
+    "partNo": "27/275/930",
+    "name": "Karale Vivek Rameshwar",
+    "relativeName": "Karale Rameshwar",
+    "houseNo": "338-111",
+    "age": "28",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1805,
+    "epicNo": "RSO9087693",
+    "partNo": "27/275/931",
+    "name": "Marode Vijay Manikrao",
+    "relativeName": "Marode Manikrao",
+    "houseNo": "338 113",
+    "age": "57",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1806,
+    "epicNo": "RSO9087701",
+    "partNo": "27/275/932",
+    "name": "Marode Sarla Vijay",
+    "relativeName": "Marode Vijay",
+    "houseNo": "338 113",
+    "age": "52",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1807,
+    "epicNo": "KCC1099589",
+    "partNo": "27/275/933",
+    "name": "Parasakar Dinkar Gotuji",
+    "relativeName": "Parasakar Gotuji",
+    "houseNo": "338 115",
+    "age": "61",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1808,
+    "epicNo": "KCC1078211",
+    "partNo": "27/275/934",
+    "name": "Parasakar Jaya Dinkar",
+    "relativeName": "Parasakar Dinkar",
+    "houseNo": "338 115",
+    "age": "56",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1809,
+    "epicNo": "KCC1076884",
+    "partNo": "27/275/935",
+    "name": "Pant Dattatray Namdevrao",
+    "relativeName": "Pant Namdevrao",
+    "houseNo": "338 116",
+    "age": "74",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1810,
+    "epicNo": "KCC1077247",
+    "partNo": "27/275/936",
+    "name": "Pant Lata Datta",
+    "relativeName": "Pant Datta",
+    "houseNo": "338 116",
+    "age": "67",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1811,
+    "epicNo": "KCC1078427",
+    "partNo": "27/275/938",
+    "name": "Bhujbal Vivek Vasantrao",
+    "relativeName": "Bhujbal Vasantrao",
+    "houseNo": "338 117",
+    "age": "69",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1812,
+    "epicNo": "KCC1077189",
+    "partNo": "27/275/939",
+    "name": "Bhujbal Vandana Vivek",
+    "relativeName": "Bhujbal Vivek",
+    "houseNo": "338 117",
+    "age": "56",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1813,
+    "epicNo": "KCC1076918",
+    "partNo": "27/275/940",
+    "name": "Bharambe Duryodhan Ramkrishna",
+    "relativeName": "Bharambe Ramkrishna",
+    "houseNo": "338 119",
+    "age": "68",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1814,
+    "epicNo": "KCC1079417",
+    "partNo": "27/275/941",
+    "name": "Deshmukh Subhash Anandrao",
+    "relativeName": "Deshmukh Anandrao",
+    "houseNo": "338 120",
+    "age": "62",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1815,
+    "epicNo": "KCC1079409",
+    "partNo": "27/275/942",
+    "name": "Deshmukh Mina Subhash",
+    "relativeName": "Deshmukh Subhash",
+    "houseNo": "338 120",
+    "age": "57",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1816,
+    "epicNo": "KCC1099696",
+    "partNo": "27/275/943",
+    "name": "Manatkar Keshav",
+    "relativeName": "Manatkar Pralhad",
+    "houseNo": "338/122",
+    "age": "48",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1817,
+    "epicNo": "KCC1078997",
+    "partNo": "27/275/944",
+    "name": "Manatkar Rama",
+    "relativeName": "Manatkar Keshav",
+    "houseNo": "338/122",
+    "age": "40",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1818,
+    "epicNo": "KCC1101070",
+    "partNo": "27/275/945",
+    "name": "Vadodkar Vinayak Siddheshwar",
+    "relativeName": "Vadodkar Siddheshwar",
+    "houseNo": "338/123",
+    "age": "59",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1819,
+    "epicNo": "RSO9087719",
+    "partNo": "27/275/946",
+    "name": "Pote Shakuntala Ramchandra",
+    "relativeName": "Pote Ramchandra",
+    "houseNo": "338/124",
+    "age": "76",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1820,
+    "epicNo": "RSO9087727",
+    "partNo": "27/275/947",
+    "name": "Pote Ravindra Ramchandra",
+    "relativeName": "Pote Ramchandra",
+    "houseNo": "338/124",
+    "age": "53",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1821,
+    "epicNo": "RSO9087750",
+    "partNo": "27/275/948",
+    "name": "Bavaskar Nalini Suresh",
+    "relativeName": "Bavaskar Suresh",
+    "houseNo": "338/125",
+    "age": "69",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1822,
+    "epicNo": "RSO9087743",
+    "partNo": "27/275/949",
+    "name": "Bavaskar Mayuri Suresh",
+    "relativeName": "Bavaskar Suresh",
+    "houseNo": "338/125",
+    "age": "24",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1823,
+    "epicNo": "RSO9087735",
+    "partNo": "27/275/950",
+    "name": "Bavaskar Nilesh Suresh",
+    "relativeName": "Bavaskar Suresh",
+    "houseNo": "338/125",
+    "age": "24",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1824,
+    "epicNo": "RSO9407008",
+    "partNo": "27/275/951",
+    "name": "Patole Gajanan",
+    "relativeName": "Patole Oakar",
+    "houseNo": "338/126",
+    "age": "36",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1825,
+    "epicNo": "RSO7375645",
+    "partNo": "27/275/952",
+    "name": "Patole Ganesh Oakar",
+    "relativeName": "Patole Oakar",
+    "houseNo": "338/126",
+    "age": "34",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1826,
+    "epicNo": "RSO7375652",
+    "partNo": "27/275/953",
+    "name": "Patole Ashvini Gajanan",
+    "relativeName": "Patole Gajanan",
+    "houseNo": "338/126",
+    "age": "32",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1827,
+    "epicNo": "RSO7375637",
+    "partNo": "27/275/954",
+    "name": "Patole Sapna Oakar",
+    "relativeName": "Patole Oakar",
+    "houseNo": "338/126",
+    "age": "30",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1828,
+    "epicNo": "RSO9087776",
+    "partNo": "27/275/955",
+    "name": "Gulhane Minakshi Kailas",
+    "relativeName": "Gulhane Kailas",
+    "houseNo": "338/128",
+    "age": "34",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1829,
+    "epicNo": "RSO3502820",
+    "partNo": "27/275/956",
+    "name": "Kshirsagar Dinesh Gajanan",
+    "relativeName": "Kshirsagar Gajanan",
+    "houseNo": "338/129",
+    "age": "36",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1830,
+    "epicNo": "RSO9087784",
+    "partNo": "27/275/957",
+    "name": "Bhorat Shivaji Dnyandev",
+    "relativeName": "Bhorat Dnyandev",
+    "houseNo": "338/129",
+    "age": "45",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1831,
+    "epicNo": "RSO1409952",
+    "partNo": "27/275/958",
+    "name": "Bhorat Varsha Shivaji",
+    "relativeName": "Bhorat Shivaji",
+    "houseNo": "338/129",
+    "age": "40",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1832,
+    "epicNo": "RSO9087792",
+    "partNo": "27/275/959",
+    "name": "Salokhe Eknath Ramkrushna",
+    "relativeName": "Salokhe Ramkrushna",
+    "houseNo": "338/129",
+    "age": "41",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1833,
+    "epicNo": "RSO9087800",
+    "partNo": "27/275/960",
+    "name": "Salokhe Seeta Eknath",
+    "relativeName": "Salokhe Eknath",
+    "houseNo": "338/129",
+    "age": "37",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1834,
+    "epicNo": "RSO1473123",
+    "partNo": "27/275/961",
+    "name": "Salokhe Avijit",
+    "relativeName": "Salokhe Eknath",
+    "houseNo": "338/129",
+    "age": "27",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1835,
+    "epicNo": "RSO3502838",
+    "partNo": "27/275/962",
+    "name": "Kambirdar Roshani Sriram",
+    "relativeName": "Kambirdar Sriram",
+    "houseNo": "338/130",
+    "age": "36",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1836,
+    "epicNo": "RSO9087404",
+    "partNo": "27/275/963",
+    "name": "Tayade Rupali Dinkar",
+    "relativeName": "Tayade Dinkar",
+    "houseNo": "338/132",
+    "age": "34",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1837,
+    "epicNo": "RSO9087818",
+    "partNo": "27/275/964",
+    "name": "Ambekar Aadityanath",
+    "relativeName": "Ambekar Aadityanath",
+    "houseNo": "338/132",
+    "age": "43",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1838,
+    "epicNo": "RSO7375454",
+    "partNo": "27/275/965",
+    "name": "Ambekar Divyaroshini",
+    "relativeName": "Ambekar Sanjay",
+    "houseNo": "338/132",
+    "age": "38",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1839,
+    "epicNo": "RSO9087826",
+    "partNo": "27/275/966",
+    "name": "Ambekar Kishor Aadityanath",
+    "relativeName": "Ambekar Aadityanath",
+    "houseNo": "338/132",
+    "age": "36",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1840,
+    "epicNo": "RSO1642073",
+    "partNo": "27/275/967",
+    "name": "Shilvankar Amita Ramkrishna",
+    "relativeName": "Shilvankar Ramkrishna",
+    "houseNo": "338/133",
+    "age": "45",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1841,
+    "epicNo": "RSO1642214",
+    "partNo": "27/275/968",
+    "name": "Kshirsagar Tejas Maruti",
+    "relativeName": "Kshirsagar Maruti",
+    "houseNo": "338-134",
+    "age": "20",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1842,
+    "epicNo": "RSO1642339",
+    "partNo": "27/275/969",
+    "name": "Kolage Durva",
+    "relativeName": "Kolage Rajesh",
+    "houseNo": "338-142",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1843,
+    "epicNo": "RSO1649698",
+    "partNo": "27/275/970",
+    "name": "Dhanorkar Purva Vinod",
+    "relativeName": "Dhanorkar Vinod",
+    "houseNo": "338/142",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1844,
+    "epicNo": "RSO1649813",
+    "partNo": "27/275/971",
+    "name": "Garde Shruti Sitaram",
+    "relativeName": "Garde Sitaram Dinkar",
+    "houseNo": "338/142",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1845,
+    "epicNo": "RSO1653336",
+    "partNo": "27/275/972",
+    "name": "Gaikwad Anil Mahadev",
+    "relativeName": "Gaikwad Mahadev",
+    "houseNo": "NEAR TEKDI",
+    "age": "34",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1846,
+    "epicNo": "RSO1653658",
+    "partNo": "27/275/973",
+    "name": "Yashodita Rajesh Khandare",
+    "relativeName": "Rajesh Madhukar Khandare",
+    "houseNo": "133",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1847,
+    "epicNo": "RSO1653963",
+    "partNo": "27/275/974",
+    "name": "Swati Amol Sabatkar",
+    "relativeName": "Amol Sabatkar",
+    "houseNo": "1306",
+    "age": "26",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1848,
+    "epicNo": "RSO1653971",
+    "partNo": "27/275/975",
+    "name": "Amol Pundalik Sabatkar",
+    "relativeName": "Pundalik Sabatkar",
+    "houseNo": "1306",
+    "age": "32",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1849,
+    "epicNo": "RSO7026016",
+    "partNo": "27/275/976",
+    "name": "Deshmukh Babanrao",
+    "relativeName": "Deshmukh Babanrao",
+    "houseNo": "Jagdamba nagar",
+    "age": "35",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1850,
+    "epicNo": "RSO1607134",
+    "partNo": "27/275/977",
+    "name": "Raktate Pranav",
+    "relativeName": "Raktate Santosh",
+    "houseNo": "338-129",
+    "age": "20",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1851,
+    "epicNo": "RSO7524051",
+    "partNo": "27/275/978",
+    "name": "Amale Mahesh Vasantrao",
+    "relativeName": "Amale Vasantrao",
+    "houseNo": "338-89",
+    "age": "46",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1852,
+    "epicNo": "RSO7618143",
+    "partNo": "27/275/979",
+    "name": "Lonkar Purva Vinod",
+    "relativeName": "Lonkar Vinod",
+    "houseNo": "338/129",
+    "age": "26",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1853,
+    "epicNo": "RSO7618941",
+    "partNo": "27/275/980",
+    "name": "Lonkar Pratiksha Vinod",
+    "relativeName": "Lonkar Purushottam",
+    "houseNo": "338/129",
+    "age": "24",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1854,
+    "epicNo": "LRL1413921",
+    "partNo": "27/275/981",
+    "name": "Chandanar Devidas",
+    "relativeName": "Chandanar Tukaram",
+    "houseNo": "90 B, GAYATRI NAGAR",
+    "age": "35",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1855,
+    "epicNo": "RSO1657873",
+    "partNo": "27/275/982",
+    "name": "Tayade Priya Ananta",
+    "relativeName": "Tayade Ananta",
+    "houseNo": "House no. 18",
+    "age": "24",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1856,
+    "epicNo": "RSO1660034",
+    "partNo": "27/275/985",
+    "name": "Tayade Gajanan",
+    "relativeName": "Tayade Vijay",
+    "houseNo": "House no. 18",
+    "age": "23",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1857,
+    "epicNo": "RSO1676112",
+    "partNo": "27/275/986",
+    "name": "Gulwani Sugandha Subhash",
+    "relativeName": "Gulwani Subhash",
+    "houseNo": "Jagdamba nagar, Khamgaon road",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1858,
+    "epicNo": "RSO1680958",
+    "partNo": "27/275/987",
+    "name": "Mira Bhavkar Sabatkar",
+    "relativeName": "Sabatkar",
+    "houseNo": "Tekdiwar",
+    "age": "26",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1859,
+    "epicNo": "RSO1680966",
+    "partNo": "27/275/988",
+    "name": "Gholwe Mirabai Jagannath",
+    "relativeName": "Gholwe Jagannath",
+    "houseNo": "0",
+    "age": "43",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1860,
+    "epicNo": "RSO1689729",
+    "partNo": "27/275/989",
+    "name": "Gaud Sagu Dadu",
+    "relativeName": "Gaud Dadu",
+    "houseNo": "SHARKRUSHNA NAGAR",
+    "age": "24",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1861,
+    "epicNo": "RSO1689710",
+    "partNo": "27/275/990",
+    "name": "Nandurkar Vaishali Kishor",
+    "relativeName": "Nandurkar Kishor",
+    "houseNo": "332 JAGDAMBA NAGAR GALLI",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1862,
+    "epicNo": "RSO1698729",
+    "partNo": "27/275/991",
+    "name": "Shirshat Megha Vishal",
+    "relativeName": "Shirshat Vishal",
+    "houseNo": "12",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1863,
+    "epicNo": "RSO1698737",
+    "partNo": "27/275/992",
+    "name": "Wapalwar Vivek Subhash",
+    "relativeName": "Wapalwar Subhash",
+    "houseNo": "1",
+    "age": "21",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1864,
+    "epicNo": "RSO1703925",
+    "partNo": "27/275/993",
+    "name": "Ambilkar Payal Anil",
+    "relativeName": "Ambilkar Anil",
+    "houseNo": "320",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1865,
+    "epicNo": "RSO1709500",
+    "partNo": "27/275/994",
+    "name": "Palkar Amol Ramdhan",
+    "relativeName": "Palkar Ramdhan",
+    "houseNo": "338/130",
+    "age": "53",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1866,
+    "epicNo": "RSO1709518",
+    "partNo": "27/275/995",
+    "name": "Mane Vibhisha Surendra",
+    "relativeName": "Mane Surendra",
+    "houseNo": "339",
+    "age": "36",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1867,
+    "epicNo": "RSO1710110",
+    "partNo": "27/275/996",
+    "name": "Gurude Samiksha Pramod",
+    "relativeName": "Gurude Pramod",
+    "houseNo": "320",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1868,
+    "epicNo": "RSO1711639",
+    "partNo": "27/275/997",
+    "name": "Tayade Kishor Dineshrao",
+    "relativeName": "Tayade Dineshrao",
+    "houseNo": "338/12",
+    "age": "36",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1869,
+    "epicNo": "RSO1711647",
+    "partNo": "27/275/998",
+    "name": "Tayade Kinshuk Vinayak",
+    "relativeName": "Tayade Vinayak",
+    "houseNo": "338/66",
+    "age": "33",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1870,
+    "epicNo": "RSO1711654",
+    "partNo": "27/275/999",
+    "name": "Bhalerao Gauri Sanjay",
+    "relativeName": "Bhalerao Sanjay",
+    "houseNo": "303",
+    "age": "26",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1871,
+    "epicNo": "RSO1718295",
+    "partNo": "27/275/1000",
+    "name": "Palkar Aditya Vinod",
+    "relativeName": "Palkar Vinod",
+    "houseNo": "349",
+    "age": "21",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1872,
+    "epicNo": "RSO1712771",
+    "partNo": "27/275/1001",
+    "name": "Kale Abhijit Gajanan",
+    "relativeName": "Kale Gajanan Mahadev",
+    "houseNo": "MADHAV NAGAR",
+    "age": "24",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1873,
+    "epicNo": "RSO1727189",
+    "partNo": "27/275/1002",
+    "name": "Mirza Ramsuraj Chunilal",
+    "relativeName": "Mirza Chunilal",
+    "houseNo": "MADHAV NAGAR",
+    "age": "41",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1874,
+    "epicNo": "RSO1727197",
+    "partNo": "27/275/1003",
+    "name": "Mirza Sitadevi Ramsurat",
+    "relativeName": "Mirza Ramsurat",
+    "houseNo": "MADHAV NAGAR",
+    "age": "39",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1875,
+    "epicNo": "RSO1727544",
+    "partNo": "27/275/1004",
+    "name": "Tayade Vaishnavi Santosh",
+    "relativeName": "Tayade Santosh Sahebrav",
+    "houseNo": "SHIRKRUPA NIWAS",
+    "age": "27",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1876,
+    "epicNo": "RSO1728898",
+    "partNo": "27/275/1005",
+    "name": "Shinde Kiran Baburao",
+    "relativeName": "Shinde Baburao",
+    "houseNo": "222",
+    "age": "41",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1877,
+    "epicNo": "RSO1731868",
+    "partNo": "27/275/1007",
+    "name": "Lonkar Deepika Ashok",
+    "relativeName": "Lonkar Ashok",
+    "houseNo": "120",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1878,
+    "epicNo": "RSO1731876",
+    "partNo": "27/275/1008",
+    "name": "Shinde Madhuri",
+    "relativeName": "Shinde Vivek",
+    "houseNo": "JAGDAMBA NAGAR, JAVAL GALLI",
+    "age": "24",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1879,
+    "epicNo": "RSO1732601",
+    "partNo": "27/275/1009",
+    "name": "Walkode Sonu Deepak",
+    "relativeName": "Walkode Savita Deepak Walkode",
+    "houseNo": "Vyanktesh nagar tekdi",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1880,
+    "epicNo": "RSO1732619",
+    "partNo": "27/275/1010",
+    "name": "Walkode Savita Deepak Walkode",
+    "relativeName": "Walkode Narayan",
+    "houseNo": "Vyanktesh nagar tekdi",
+    "age": "39",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1881,
+    "epicNo": "RSO1732627",
+    "partNo": "27/275/1011",
+    "name": "Walkode Prem Deepak",
+    "relativeName": "Walkode Savita Deepak Walkode",
+    "houseNo": "Vyanktesh nagar tekdi",
+    "age": "18",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1882,
+    "epicNo": "RSO1732635",
+    "partNo": "27/275/1012",
+    "name": "Walkode Savita Deepak Walkode",
+    "relativeName": "Walkode Deepak",
+    "houseNo": "Vyanktesh nagar tekdi",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1883,
+    "epicNo": "RSO1733005",
+    "partNo": "27/275/1013",
+    "name": "Pise Dnyaneshwar",
+    "relativeName": "Pise Dnyaneshwar",
+    "houseNo": "GOMAJI NAGAR",
+    "age": "31",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1884,
+    "epicNo": "RSO1740992",
+    "partNo": "27/275/1014",
+    "name": "Chalke Dipali Nitesh",
+    "relativeName": "Chalke Nitesh Shivaji",
+    "houseNo": "Vyanktesh nagar tekdi",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1885,
+    "epicNo": "RSO1741552",
+    "partNo": "27/275/1015",
+    "name": "Pise Mamta Dnyaneshwar",
+    "relativeName": "Dnyaneshwar Pise",
+    "houseNo": "Dnyaneshwar Pise",
+    "age": "29",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1886,
+    "epicNo": "RSO1747138",
+    "partNo": "27/275/1016",
+    "name": "Shinde Uday Gopal",
+    "relativeName": "Shinde Gopal",
+    "houseNo": "Jagdamba Nagar, Shegaon",
+    "age": "20",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1887,
+    "epicNo": "RSO1747187",
+    "partNo": "27/275/1017",
+    "name": "Shinde Uma Gopal",
+    "relativeName": "Shinde Gopal",
+    "houseNo": "JAGDAMBA NAGAR",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1888,
+    "epicNo": "RSO1747195",
+    "partNo": "27/275/1018",
+    "name": "Shinde Rekha Gopal",
+    "relativeName": "Shinde Gopal",
+    "houseNo": "Jagdamba Nagar",
+    "age": "28",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1889,
+    "epicNo": "RSO1752823",
+    "partNo": "27/275/1019",
+    "name": "Deshmukh Vatsala",
+    "relativeName": "Deshmukh Sanjay",
+    "houseNo": "Jagdamba Nagar",
+    "age": "36",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1890,
+    "epicNo": "RSO1753664",
+    "partNo": "27/275/1020",
+    "name": "Mundhe Mansi",
+    "relativeName": "Mundhe Sharad",
+    "houseNo": "SONTAKE apartment",
+    "age": "25",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1891,
+    "epicNo": "RSO1753680",
+    "partNo": "27/275/1021",
+    "name": "Unnati Nilkanth Surajkar",
+    "relativeName": "Nilkanth Surajkar",
+    "houseNo": "Nilkanth Surajkar",
+    "age": "24",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1892,
+    "epicNo": "RSO1764695",
+    "partNo": "27/275/1023",
+    "name": "Shelke Priya",
+    "relativeName": "Shelke Vishal",
+    "houseNo": "JAGDAMBA NAGAR",
+    "age": "26",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1893,
+    "epicNo": "RSO1766260",
+    "partNo": "27/275/1024",
+    "name": "Pawar Roshni Babusing",
+    "relativeName": "Pawar Babusing",
+    "houseNo": "Khamgaon road",
+    "age": "34",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1894,
+    "epicNo": "RSO1767797",
+    "partNo": "27/275/1025",
+    "name": "Bade Anil",
+    "relativeName": "Bade Anil",
+    "houseNo": "Sudema Nagar",
+    "age": "31",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1895,
+    "epicNo": "RSO1768183",
+    "partNo": "27/275/1027",
+    "name": "Gavade Pankaj Babriram",
+    "relativeName": "Gavade Babriram",
+    "houseNo": "S/O. B.K.Gavai, Lane no 2",
+    "age": "33",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1896,
+    "epicNo": "RSO1768290",
+    "partNo": "27/275/1028",
+    "name": "Mohod Durgamini Gulabrao Mohod",
+    "relativeName": "Mohod Gulabrao Mohod",
+    "houseNo": "Mohod Gulabrao Mohod",
+    "age": "20",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1897,
+    "epicNo": "RSO1773233",
+    "partNo": "27/275/1029",
+    "name": "Shinde Anurag",
+    "relativeName": "Shinde Sanjay",
+    "houseNo": "Jagdamba nagar shegaon",
+    "age": "20",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1898,
+    "epicNo": "RSO9584517",
+    "partNo": "27/275/1030",
+    "name": "Bhatkar Kailas Shaligram",
+    "relativeName": "Bhatkar Shaligram",
+    "houseNo": "49",
+    "age": "46",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1899,
+    "epicNo": "RSO9582529",
+    "partNo": "27/275/1031",
+    "name": "Bhatkar Sangita Kailas",
+    "relativeName": "Bhatkar Kailas",
+    "houseNo": "49",
+    "age": "39",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1900,
+    "epicNo": "RSO9527565",
+    "partNo": "27/275/1032",
+    "name": "Rathod Manoj Ashok",
+    "relativeName": "Rathod Ashok",
+    "houseNo": "65",
+    "age": "24",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1901,
+    "epicNo": "RSO9527466",
+    "partNo": "27/275/1033",
+    "name": "Chavan Rohit Ashok",
+    "relativeName": "Chavan Ashok",
+    "houseNo": "65",
+    "age": "24",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1902,
+    "epicNo": "RSO9527680",
+    "partNo": "27/275/1034",
+    "name": "Shinde Pallavi Vijay",
+    "relativeName": "Shinde Vijay",
+    "houseNo": "1",
+    "age": "26",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1903,
+    "epicNo": "RSO9526997",
+    "partNo": "27/275/1035",
+    "name": "Ingale Rahul Arun",
+    "relativeName": "Ingale Arun",
+    "houseNo": "2",
+    "age": "23",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1904,
+    "epicNo": "RSO9526989",
+    "partNo": "27/275/1036",
+    "name": "Ingale Aakash Arun",
+    "relativeName": "Ingale Arun",
+    "houseNo": "2",
+    "age": "28",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1905,
+    "epicNo": "RSO9527185",
+    "partNo": "27/275/1037",
+    "name": "Tayade Vandana Vitthal",
+    "relativeName": "Tayade Vitthal",
+    "houseNo": "3",
+    "age": "41",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1906,
+    "epicNo": "RSO9527243",
+    "partNo": "27/275/1038",
+    "name": "Tayade Shubham Vitthal",
+    "relativeName": "Tayade Vitthal",
+    "houseNo": "3",
+    "age": "25",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1907,
+    "epicNo": "RSO9526955",
+    "partNo": "27/275/1039",
+    "name": "Guravkar Jeevan Bhagwan",
+    "relativeName": "Guravkar Bhagwan",
+    "houseNo": "2",
+    "age": "26",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1908,
+    "epicNo": "RSO9526922",
+    "partNo": "27/275/1040",
+    "name": "Gore Priya Shrikrushna",
+    "relativeName": "Gore Shrikrushna",
+    "houseNo": "1",
+    "age": "23",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1909,
+    "epicNo": "RSO1610948",
+    "partNo": "27/275/1041",
+    "name": "Vishal Anil Deshmukh",
+    "relativeName": "Anil Keshavrao Deshmukh",
+    "houseNo": "1",
+    "age": "21",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1910,
+    "epicNo": "RSO1486075",
+    "partNo": "27/275/1042",
+    "name": "Tayade Sangita Sanjay",
+    "relativeName": "Tayade Sanjay Narayan",
+    "houseNo": "2",
+    "age": "42",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1911,
+    "epicNo": "RSO1556042",
+    "partNo": "27/275/1043",
+    "name": "Hirekar Shrikant",
+    "relativeName": "Hirekar Sunil",
+    "houseNo": "100",
+    "age": "20",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1912,
+    "epicNo": "RSO1561307",
+    "partNo": "27/275/1044",
+    "name": "Wankhede Lilavai",
+    "relativeName": "Wankhede Laxman",
+    "houseNo": "100",
+    "age": "49",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1913,
+    "epicNo": "RSO1539717",
+    "partNo": "27/275/1045",
+    "name": "Wankhede Mayuri",
+    "relativeName": "Wankhede Mahesh",
+    "houseNo": "100",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1914,
+    "epicNo": "RSO1556026",
+    "partNo": "27/275/1046",
+    "name": "Wankhede Diksha",
+    "relativeName": "Wankhede Manohar",
+    "houseNo": "100",
+    "age": "21",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1915,
+    "epicNo": "RSO1561299",
+    "partNo": "27/275/1047",
+    "name": "Wankhede Vilas Ramrav",
+    "relativeName": "Wankhede Ramrav",
+    "houseNo": "Gurukunj Nagar",
+    "age": "45",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1916,
+    "epicNo": "RSO1407980",
+    "partNo": "27/275/1051",
+    "name": "Kalkunde Suresh",
+    "relativeName": "Kalkunde Suresh",
+    "houseNo": "Valenki Niwas",
+    "age": "34",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1917,
+    "epicNo": "RSO1517093",
+    "partNo": "27/275/1057",
+    "name": "Tayade Vinod Dipak",
+    "relativeName": "Tayade Dipak",
+    "houseNo": "Yogini Colony",
+    "age": "22",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1918,
+    "epicNo": "RSO1574524",
+    "partNo": "27/275/1058",
+    "name": "Gore Sneha Deepak",
+    "relativeName": "Gore Deepak",
+    "houseNo": "RENUKA NAGAR",
+    "age": "19",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1919,
+    "epicNo": "RSO1515063",
+    "partNo": "27/275/1059",
+    "name": "Gholwe Ravindra Tayade",
+    "relativeName": "Ravindra Tayade",
+    "houseNo": "12",
+    "age": "21",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1920,
+    "epicNo": "RSO9527953",
+    "partNo": "27/275/1060",
+    "name": "Ingale Deepak Babiram",
+    "relativeName": "Ingale Babiram",
+    "houseNo": "PLOT NO 13",
+    "age": "43",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1921,
+    "epicNo": "RSO9527961",
+    "partNo": "27/275/1061",
+    "name": "Ingale Jignika Deepak",
+    "relativeName": "Ingale Deepak",
+    "houseNo": "PLOT NO 13",
+    "age": "42",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1922,
+    "epicNo": "RSO1584499",
+    "partNo": "27/275/1063",
+    "name": "Injemam Husein Khan Injemam Husein",
+    "relativeName": "Injemam Husein Khan",
+    "houseNo": "20",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1923,
+    "epicNo": "RSO9546136",
+    "partNo": "27/275/1065",
+    "name": "Shaikh Mohamad Yunas",
+    "relativeName": "Shaikh Ayub",
+    "houseNo": "65",
+    "age": "24",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1924,
+    "epicNo": "RSO1561281",
+    "partNo": "27/275/1072",
+    "name": "Wankhede Vandana Vilas",
+    "relativeName": "Wankhede Vilas Ramrao",
+    "houseNo": "49",
+    "age": "48",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1925,
+    "epicNo": "RSO1566751",
+    "partNo": "27/275/1073",
+    "name": "Wankhede Somesh Vilas",
+    "relativeName": "Wankhede Vilas",
+    "houseNo": "49",
+    "age": "22",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1926,
+    "epicNo": "RSO7534498",
+    "partNo": "27/275/1074",
+    "name": "Pusadkar Subhash Keshawji",
+    "relativeName": "Pusadkar Keshavji",
+    "houseNo": "Martunchya Apt 201",
+    "age": "64",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1927,
+    "epicNo": "RSO1587807",
+    "partNo": "27/275/1075",
+    "name": "Bhikate Vinod Umeshrao",
+    "relativeName": "Bhikate Umeshrao",
+    "houseNo": "230",
+    "age": "25",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1928,
+    "epicNo": "RSO9546243",
+    "partNo": "27/275/1076",
+    "name": "Shinde Vinod Jagannath",
+    "relativeName": "Shinde Jagannath",
+    "houseNo": "129",
+    "age": "46",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1929,
+    "epicNo": "RSO7366883",
+    "partNo": "27/275/1077",
+    "name": "Mane Nilesh Pundalik",
+    "relativeName": "Mane Pundalik",
+    "houseNo": "20",
+    "age": "52",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1930,
+    "epicNo": "RSO9527623",
+    "partNo": "27/275/1079",
+    "name": "Morkhade Priyanka Damodar",
+    "relativeName": "Morkhade Damodar",
+    "houseNo": "20",
+    "age": "42",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1931,
+    "epicNo": "RSO6069611",
+    "partNo": "27/275/1080",
+    "name": "Samudre Suman Rajaram",
+    "relativeName": "Samudre Rajaram",
+    "houseNo": "1295",
+    "age": "55",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1932,
+    "epicNo": "RSO6069637",
+    "partNo": "27/275/1081",
+    "name": "Samudre Geeta Uttam",
+    "relativeName": "Samudre Uttam",
+    "houseNo": "1295",
+    "age": "39",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1933,
+    "epicNo": "RSO6069645",
+    "partNo": "27/275/1082",
+    "name": "Sathe Shahurao Yadavrao",
+    "relativeName": "Sathe Yadavrao",
+    "houseNo": "1295",
+    "age": "34",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1934,
+    "epicNo": "RSO6069652",
+    "partNo": "27/275/1083",
+    "name": "Sathe Shama Shahurao",
+    "relativeName": "Sathe Shahurao",
+    "houseNo": "1295",
+    "age": "29",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1935,
+    "epicNo": "RSO6069660",
+    "partNo": "27/275/1084",
+    "name": "Sathe Sangita Shahurao",
+    "relativeName": "Sathe Shahurao",
+    "houseNo": "1295",
+    "age": "31",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1936,
+    "epicNo": "RSO6069686",
+    "partNo": "27/275/1085",
+    "name": "Sathe Sunita Bharat",
+    "relativeName": "Sathe Bharat",
+    "houseNo": "1295",
+    "age": "46",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1937,
+    "epicNo": "RSO6069694",
+    "partNo": "27/275/1086",
+    "name": "Tayade Arvind Motiram",
+    "relativeName": "Tayade Motiram",
+    "houseNo": "1298",
+    "age": "42",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1938,
+    "epicNo": "RSO6069702",
+    "partNo": "27/275/1087",
+    "name": "Kakade Subhash Sriram",
+    "relativeName": "Kakade Sriram",
+    "houseNo": "1299",
+    "age": "42",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1939,
+    "epicNo": "RSO6069710",
+    "partNo": "27/275/1088",
+    "name": "Kakade Vaishali Subhash",
+    "relativeName": "Kakade Subhash",
+    "houseNo": "1299",
+    "age": "34",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1940,
+    "epicNo": "RSO6069728",
+    "partNo": "27/275/1089",
+    "name": "Gholwe Suman Ramrav",
+    "relativeName": "Gholwe Ramrav",
+    "houseNo": "1300",
+    "age": "48",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1941,
+    "epicNo": "RSO6069736",
+    "partNo": "27/275/1090",
+    "name": "Gholwe Pratibha Suman",
+    "relativeName": "Gholwe Suman",
+    "houseNo": "1300",
+    "age": "34",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1942,
+    "epicNo": "RSO6069751",
+    "partNo": "27/275/1091",
+    "name": "Gholwe Mangala Mahadev",
+    "relativeName": "Gholwe Mahadev",
+    "houseNo": "1300",
+    "age": "54",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1943,
+    "epicNo": "RSO6069769",
+    "partNo": "27/275/1092",
+    "name": "Korke Pratibha Pundalik",
+    "relativeName": "Korke Pundalik",
+    "houseNo": "1304",
+    "age": "48",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1944,
+    "epicNo": "RSO9407040",
+    "partNo": "27/275/1093",
+    "name": "Korke Pundalik Ramman",
+    "relativeName": "Korke Ramman",
+    "houseNo": "1304",
+    "age": "53",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1945,
+    "epicNo": "RSO6069777",
+    "partNo": "27/275/1094",
+    "name": "Gholwe Devnand Shaligram",
+    "relativeName": "Gholwe Shaligram",
+    "houseNo": "1304",
+    "age": "44",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1946,
+    "epicNo": "RSO6069785",
+    "partNo": "27/275/1095",
+    "name": "Bhalwankar Savita Ravindra",
+    "relativeName": "Bhalwankar Ravindra",
+    "houseNo": "1306",
+    "age": "45",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1947,
+    "epicNo": "RSO6069827",
+    "partNo": "27/275/1096",
+    "name": "Nikale Supriya Kisan",
+    "relativeName": "Nikale Kisan",
+    "houseNo": "1306",
+    "age": "44",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1948,
+    "epicNo": "RSO6069835",
+    "partNo": "27/275/1097",
+    "name": "Gore Lata Vilas",
+    "relativeName": "Gore Vilas",
+    "houseNo": "1310",
+    "age": "32",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1949,
+    "epicNo": "RSO6069843",
+    "partNo": "27/275/1098",
+    "name": "Ukhalkar Sonali Omprakash",
+    "relativeName": "Ukhalkar Omprakash",
+    "houseNo": "1311",
+    "age": "30",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1950,
+    "epicNo": "RSO6069850",
+    "partNo": "27/275/1099",
+    "name": "Tayade Pramodini Ramesh",
+    "relativeName": "Tayade Ramesh",
+    "houseNo": "1312",
+    "age": "33",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1951,
+    "epicNo": "RSO6069876",
+    "partNo": "27/275/1100",
+    "name": "Dakare Yogesh Gajanan",
+    "relativeName": "Dakare Gajanan",
+    "houseNo": "1314",
+    "age": "39",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1952,
+    "epicNo": "RSO6069884",
+    "partNo": "27/275/1101",
+    "name": "Kale Vishnu Ramrao",
+    "relativeName": "Kale Ramrao",
+    "houseNo": "1315",
+    "age": "32",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1953,
+    "epicNo": "RSO6069892",
+    "partNo": "27/275/1102",
+    "name": "Dhamodkar Dattatray Baburao",
+    "relativeName": "Dhamodkar Baburao",
+    "houseNo": "1316",
+    "age": "52",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1954,
+    "epicNo": "RSO6069900",
+    "partNo": "27/275/1103",
+    "name": "Dhamodkar Sarika Dattatray",
+    "relativeName": "Dhamodkar Dattatray",
+    "houseNo": "1316",
+    "age": "38",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1955,
+    "epicNo": "RSO6069926",
+    "partNo": "27/275/1104",
+    "name": "Tayade Dvarakaishwari Shaligram",
+    "relativeName": "Tayade Shaligram",
+    "houseNo": "1318",
+    "age": "54",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1956,
+    "epicNo": "RSO6069975",
+    "partNo": "27/275/1105",
+    "name": "Guravkar Rekha Bhagwan",
+    "relativeName": "Guravkar Bhagwan",
+    "houseNo": "1320",
+    "age": "46",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1957,
+    "epicNo": "RSO6069983",
+    "partNo": "27/275/1106",
+    "name": "Guravkar Sneha Bhagwan",
+    "relativeName": "Guravkar Bhagwan",
+    "houseNo": "1320",
+    "age": "37",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1958,
+    "epicNo": "RSO6069991",
+    "partNo": "27/275/1107",
+    "name": "Pawar Laxmanrao",
+    "relativeName": "Pawar Ruprav",
+    "houseNo": "1321",
+    "age": "85",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1959,
+    "epicNo": "RSO6070007",
+    "partNo": "27/275/1108",
+    "name": "Pawar Surekha Laxmanrao",
+    "relativeName": "Pawar Laxmanrao",
+    "houseNo": "1321",
+    "age": "61",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1960,
+    "epicNo": "RSO6070023",
+    "partNo": "27/275/1109",
+    "name": "Pawar Ajay Laxmanrao",
+    "relativeName": "Pawar Laxmanrao",
+    "houseNo": "1321",
+    "age": "53",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1961,
+    "epicNo": "RSO6070015",
+    "partNo": "27/275/1110",
+    "name": "Walkode Sunil Samadhan",
+    "relativeName": "Walkode Samadhan",
+    "houseNo": "1322",
+    "age": "45",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1962,
+    "epicNo": "RSO7567779",
+    "partNo": "27/275/1111",
+    "name": "Kolkar Rajni Digambar",
+    "relativeName": "Kolkar Digambar",
+    "houseNo": "1323",
+    "age": "66",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1963,
+    "epicNo": "RSO1494434",
+    "partNo": "27/275/1112",
+    "name": "Khamrunnisa",
+    "relativeName": "Sayyad Akbar",
+    "houseNo": "289/6",
+    "age": "36",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1964,
+    "epicNo": "RSO1496124",
+    "partNo": "27/275/1113",
+    "name": "Nemade Kamlesh Srikrushna",
+    "relativeName": "Nemade Srikrushna",
+    "houseNo": "229192002842",
+    "age": "22",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1965,
+    "epicNo": "RSO1533876",
+    "partNo": "27/275/1114",
+    "name": "Ajay Gajanan Wankhede",
+    "relativeName": "Gajanan Wankhede",
+    "houseNo": "399/3/4",
+    "age": "30",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1966,
+    "epicNo": "RSO1526375",
+    "partNo": "27/275/1115",
+    "name": "Nagare Sandip Dnyaneshwar",
+    "relativeName": "Dnyaneshwar Nagare",
+    "houseNo": "394/6/98",
+    "age": "35",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1967,
+    "epicNo": "RSO1526391",
+    "partNo": "27/275/1116",
+    "name": "Nagare Swati Sandip",
+    "relativeName": "Nagare Sandip Nagare",
+    "houseNo": "394/6/98",
+    "age": "28",
+    "gender": "Female"
+  },
+  {
+    "srNo": 1968,
+    "epicNo": "RSO1621242",
+    "partNo": "27/275/1117",
+    "name": "Mohammad Yusuf Sheikh Rasul",
+    "relativeName": "Sheikh Rasul",
+    "houseNo": "391/1",
+    "age": "30",
+    "gender": "Male"
+  },
+  {
+    "srNo": 1969,
+    "epicNo": "RSO1716869",
+    "partNo": "27/275/1121",
+    "name": "Wankhede Somesh Vilas Wankhede",
+    "relativeName": "Wankhede Vilas Ramrao Wankhede",
+    "houseNo": "22",
+    "age": "22",
+    "gender": "Male"
   }
 ];
 
